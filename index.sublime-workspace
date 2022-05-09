@@ -1,0 +1,313 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"jou",
+				"journal-name"
+			],
+			[
+				"te",
+				"text-gray-500"
+			],
+			[
+				"tex",
+				"text-gray-500"
+			],
+			[
+				"item",
+				"items-center"
+			],
+			[
+				"c",
+				"clojure"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pep na",
+				"Pep: Goto Namespace in Paths"
+			],
+			[
+				"tut",
+				"Tutkain: Evaluate"
+			],
+			[
+				"t",
+				"Tutkain: Connect"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"tu",
+				"Tutkain: Connect"
+			],
+			[
+				"rep",
+				"SublimeREPL: Clojure"
+			],
+			[
+				"repl",
+				"SublimeREPL: Clojure"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"tutk",
+				"Tutkain: Connect"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 373.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Usuario/Desktop/Clojure/AluraTailwindCSS/index.html",
+		"/C/Users/Usuario/Desktop/Clojure/AluraTailwindCSS/index.sublime-workspace",
+		"/C/Users/Usuario/Desktop/Clojure/rex.web/src/rex/web/app.cljs",
+		"/C/Users/Usuario/Desktop/Clojure/rex.web/src/rex/web/window.cljs",
+		"/C/Users/Usuario/Desktop/Clojure/rex.web/src/rex/web/process.cljs",
+		"/C/Users/Usuario/Desktop/Clojure/rex.web/src/rex/web/program.cljs",
+		"/C/Users/Usuario/Desktop/Clojure/rex.web/src/rex/web/router.cljs",
+		"/C/Users/Usuario/Desktop/Clojure/rex.web/resources/public/index.html",
+		"/C/Users/Usuario/Desktop/Clojure/rex.web/src/rex/web/program/geo.cljs",
+		"/C/Users/Usuario/Desktop/Clojure/rex.web/src/rex/web/admin.cljs",
+		"/C/Users/Usuario/Desktop/Clojure/rex.web/src/rex/web/db.cljs",
+		"/C/Users/Usuario/Desktop/Clojure/rex.web/src/rex/web/session.cljs",
+		"/C/Users/Usuario/Desktop/Clojure/AluraClojure/clojure-property-based-tests-aula7/aula7.3/hospital/test/hospital/logic_test.clj",
+		"/C/Users/Usuario/Desktop/Clojure/rex.web/resources/public/v2/css/vendor/re-com.css",
+		"/C/Users/Usuario/Desktop/Clojure/rex.web/resources/public/admin.html",
+		"/C/Users/Usuario/Desktop/Clojure/AluraClojure/clojure-introducao-a-testes-aula6/aula6.3/hospital/src/hospital/logic.clj",
+		"/C/Users/Usuario/Desktop/Clojure/AluraClojure/clojure-introducao-a-testes-aula6/aula6.3/hospital/test/hospital/logic_test.clj",
+		"/C/Users/Usuario/Desktop/Clojure/rex.web/test/rex/snapshot/core_test.cljc",
+		"/C/Users/Usuario/Desktop/Clojure/AluraClojure/clojure-introducao-a-testes-aula6/aula6.3/hospital/test/hospital/core_test.clj",
+		"/C/Users/Usuario/Desktop/Clojure/rex.web/bin/test",
+		"/C/Users/Usuario/Desktop/Clojure/AluraClojure/clojure-mutabilidade-atomos-e-refs-aula6/aula6.2/hospital/project.clj",
+		"/C/Users/Usuario/Desktop/Clojure/AluraClojure/clojure-mutabilidade-atomos-e-refs-aula6/aula6.2/hospital/src/hospital/aula1.clj",
+		"/C/Users/Usuario/Desktop/Clojure/AluraClojure/clojure-mutabilidade-atomos-e-refs-aula6/aula6.2/hospital/src/hospital/aula3.clj",
+		"/C/Users/Usuario/Desktop/Clojure/AluraClojure/clojure-mutabilidade-atomos-e-refs-aula6/aula6.2/hospital/src/hospital/aula4.clj",
+		"/C/Users/Usuario/Desktop/Clojure/AluraClojure/clojure-mutabilidade-atomos-e-refs-aula6/aula6.2/hospital/src/hospital/aula5.clj",
+		"/C/Users/Usuario/Desktop/Clojure/AluraClojure/clojure-mutabilidade-atomos-e-refs-aula6/aula6.2/hospital/src/hospital/aula6.clj",
+		"/C/Users/Usuario/Desktop/Clojure/AluraClojure/clojure-introducao-a-colecoes-aula5/loja/src/loja/aula5.clj",
+		"/C/Users/Usuario/Desktop/Clojure/AluraClojure/clojure-introducao-a-colecoes-aula5/loja/src/loja/logic.clj",
+		"/C/Users/Usuario/Desktop/Clojure/AluraClojure/clojure-introducao-a-colecoes-aula5/loja/src/loja/db.clj",
+		"/C/Users/Usuario/Desktop/Clojure/AluraClojure/clojure-introducao-a-colecoes-aula3/loja/src/loja/aula3.clj",
+		"/C/Users/Usuario/Desktop/Clojure/rex.web/src/rexi/core.cljs",
+		"/C/Users/Usuario/Desktop/Clojure/AluraClojure/clojure-introducao-aula6/src/curso/core.clj",
+		"/C/Users/Usuario/Desktop/Clojure/AluraClojure/clojure-introducao-aula4/src/curso/aula4.clj",
+		"/C/Users/Usuario/Desktop/Clojure/rex.web/src/rex/web/program/lgpd.cljs",
+		"/C/Users/Usuario/Desktop/Clojure/rex.web/src/rex/web/program/import.cljs",
+		"/C/Users/Usuario/Desktop/Clojure/rex.design/README.md",
+		"/C/Users/Usuario/Desktop/Clojure/rex.web/src/rex/web/gui.cljs",
+		"/C/Users/Usuario/Desktop/Clojure/rex.web/src/rex/web/program/journal.cljs",
+		"/C/Users/Usuario/Desktop/Clojure/rex.web/src/rex/web/program/more.cljs",
+		"/C/Users/Usuario/Desktop/Clojure/rex.web/src/rex/web/program/central.cljs",
+		"/C/Users/Usuario/Desktop/Clojure/rex.web/src/rex/web/program/user.cljs",
+		"/C/Users/Usuario/Desktop/Clojure/rex.web/src/rex/web/JENI.md",
+		"/C/Users/Usuario/Desktop/Clojure/rex.web/src/rex/web/program/import/operator.cljs",
+		"/C/Users/Usuario/Desktop/Clojure/rex.web/src/rex/web/gui/rexi.cljs",
+		"/C/Users/Usuario/Desktop/Clojure/rex.web/package.json",
+		"/C/Users/Usuario/Desktop/Clojure/MyLandingPage/index.html",
+		"/C/Users/Usuario/Desktop/Clojure/MyLandingPage/main.css",
+		"/C/Users/Usuario/Desktop/Clojure/lispi/deps.edn",
+		"/C/Users/Usuario/.clojure/.cpcache/7F7421E9A27BCFDBCBF14621D6BE86BE.basis",
+		"/C/Users/Usuario/AppData/Roaming/Sublime Text/Packages/User/Clojure.sublime-build",
+		"/C/Users/Usuario/Desktop/Clojure/projeto1/deps.edn.clj",
+		"/C/Users/Usuario/Desktop/Clojure/projeto1/projeto.clj",
+		"/C/Users/Usuario/Desktop/Clojure/projeto1/projeto.deps.edn.clj",
+		"/D/Usuario/Desktop/SublimeText/primeiroarquivo.clj"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"banca",
+			"router",
+			"bootstra",
+			"STACK",
+			"query",
+			"re frame core",
+			"transact",
+			"dispatch",
+			"app-db",
+			"test",
+			"app-db",
+			"roboto",
+			"calendar",
+			"->",
+			"re-com",
+			"http://",
+			"termos de uso",
+			"ordem de serviço",
+			"outros",
+			"body",
+			"border-gray-300",
+			"importação",
+			"banca",
+			"body",
+			"banca",
+			"space-x-12",
+			"bg-gray-100",
+			"bg-100"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
